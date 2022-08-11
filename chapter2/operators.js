@@ -67,6 +67,33 @@ console.log(decreNumb);
 
 // assignment operators --> x += 5 means x = x + 5
 
-let x = 2;
-x += 2;
-console.log(x); 
+let a = 2;
+a += 2;
+console.log(a);
+
+//subtraction
+let s = 3
+s -= 1;
+console.log(s);
+
+// multiplication
+let m = 2;
+m *= 2;
+
+console.log(m);
+
+// division
+let d = 2;
+d /= 2;
+console.log(d);
+
+// exponentiation
+let e = 2;
+e **= 2;
+console.log(e);
+
+// modulo
+
+let p = 3;
+p %= 3;
+console.log(p);
